@@ -1,0 +1,20 @@
+C:\code\Csharp\RSA\RSA\bin\Debug\RSA.exe.config
+C:\code\Csharp\RSA\RSA\bin\Debug\RSA.exe
+C:\code\Csharp\RSA\RSA\bin\Debug\RSA.pdb
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.exe
+C:\code\Csharp\RSA\RSA\obj\Debug\RSA.pdb
+G:\code\Csharp tren lop\RSA\RSA\bin\Debug\RSA.exe.config
+G:\code\Csharp tren lop\RSA\RSA\bin\Debug\RSA.exe
+G:\code\Csharp tren lop\RSA\RSA\bin\Debug\RSA.pdb
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.Form1.resources
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.exe
+G:\code\Csharp tren lop\RSA\RSA\obj\Debug\RSA.pdb
